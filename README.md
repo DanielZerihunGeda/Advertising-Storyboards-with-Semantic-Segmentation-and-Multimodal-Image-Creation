@@ -1,0 +1,2 @@
+# DanielZerihunGeda-Advertising-Storyboards-with-Semantic-Segmentation-and-Multimodal-Image-Creation
+This project automates the creation of captivating storyboard advertisements by processing user-provided product descriptions and image assets through an AI-driven &amp; ML pipeline. The system generates visually engaging ads tailored to the input, empowering users to effortlessly showcase their products and capture audience attention.
