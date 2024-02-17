@@ -1,0 +1,6 @@
+asyncio
+torch
+torchvision
+numpy
+Pillow
+scikit-image
