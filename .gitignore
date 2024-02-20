@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 #local_DATA
-data/
+
 
 # C extensions
 *.so
